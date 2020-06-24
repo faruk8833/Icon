@@ -1,0 +1,75 @@
+body{
+    font-family: arial;
+    font-size: 20px;
+}
+li{
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+.test1{
+    width: 25%;
+    float: left;
+}
+.test1a{
+    list-style-type: none;
+    list-style-image: url(checked.png)
+}
+
+.test1b{
+    list-style-type: none;
+    list-style-image: url(facebook-logo.png)
+}
+.test1c{
+    list-style-type: none;
+    list-style-image: url(checked-buttom.png)
+}
+.test2{
+    width: 25%;
+    float: left;
+}
+.test2a{
+    list-style-type: none;
+    list-style-image: url(mac-os-logo.png)
+}
+.test2b{
+    list-style-type: none;
+    list-style-image: url(musical-note.png)
+}
+.test2c{
+    list-style-type: none;
+    list-style-image: url(mac-os-logo.png)
+}
+.test3{
+    width: 25%;
+    float: left;
+}
+.test3a{
+    list-style-type: none;
+    list-style-image: url(next.png)
+}
+.test3b{
+    list-style-type: none;
+    list-style-image: url(mac-os-logo.png)
+}
+.test3c{
+    list-style-type: none;
+    list-style-image: url(star-with-five-points.png)
+}
+.test4{
+    width: 25%;
+    float: left;
+}
+.test4a{
+    list-style-type: none;
+    list-style-image: url(mac-os-logo.png)
+}
+.test4b{
+    list-style-type: none;
+    list-style-image: url(star-with-five-points.png)
+}
+.test4c{
+    list-style-type: none;
+    list-style-image: url(power-button.png)
+}
+
+
